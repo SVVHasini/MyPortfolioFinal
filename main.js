@@ -4,7 +4,7 @@
 (()=>{
     setTimeout(()=>{
         document.querySelector('a[href="/"]').click()
-    },1000)
+    },250)
 })()
 
 //# sourceMappingURL=main.5deff631.js.map
